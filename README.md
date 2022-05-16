@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rojoroker
 - 👀 I’m interested in Software development, robotics, simulations apps and medical devices.
-- 🌱 I’m currently learning C++, Python, JS, Web development.
+- 🌱 I’m currently learning C++, Python, Java, Web development.
 - 💞️ I’m looking to collaborate on Software Company
 - 📫 How to reach me rojoroker@hotmail.com // https://www.artstation.com/gustavoadolfomartinez
 
